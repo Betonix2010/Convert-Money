@@ -13,6 +13,6 @@
 <P> CSS <P>
 <p> JAVASCRIPT <p>
 <br>
-<p>Link: <a>https://betonix2010.github.io/Convert-Money/<a> <p>
+<p>Link: https://betonix2010.github.io/Convert-Money/ <p>
   
   
