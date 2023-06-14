@@ -40,7 +40,7 @@ function convertValues() {
         }).format(inputCurrencyValue / bitcoinToday)
     }
 
-    currencyValueConverted.innerHTML = new Intl.NumberFormat("pt-BR", {
+    currencyValueToConvert.innerHTML = new Intl.NumberFormat("pt-BR", {
         style: "currency",
         currency: "BRL"
     }).format(inputCurrencyValue)
